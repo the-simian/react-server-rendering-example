@@ -11,7 +11,7 @@
     "browserify": "~2.36.0",
     "envify": "~0.2.0",
     "reactify": "~0.4.0",
-    "uglifyjs": "~2.3.6",
+    "uglifyjs": "2.4.x",
     "watchify": "~0.4.1"
   },
   "scripts": {
